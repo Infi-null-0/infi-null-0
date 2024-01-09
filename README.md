@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! I'm a passionate `software developer` currently pursuing my `bachelor's degree`🎓. Expanding my skills in java backend development. Here, you'll find some of my projects, contributions, and a glimpse into my tech journey.
 
-## 🚀 About Me
+## About Me
 
 -   🍃 Currently exploring technologies such as `Spring boot`, `Hibernate` and `REST API`.
 -   ☕ Intermediate in `Java` and expanding my knowledge about world of Java.
 -   🌐 Intereseted in web and system technologies, currently focussed on web.
 
-## 💻 Tech Stack
+## Tech Stack
 
 `Languages :`
 
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate `software developer` currently pu
 
 ![PC Gaming](https://img.shields.io/badge/Pc%20gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Crunchy Roll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) ![Youtube](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
-## Let's Connect? 😄
+## Let's Connect 
 
 [![Gmail Badge](https://img.shields.io/badge/-infinull0%40gmail.com-ffffff?logoColor=red&logo=Gmail&link=mailto:infinull0@gmail.com)](mailto:infinull0@gmail.com)
 
