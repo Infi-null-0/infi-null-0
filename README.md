@@ -36,13 +36,13 @@ Welcome to my GitHub profile! I'm a passionate `software developer` currently pu
 -   🔗 [Image Converter](https://github.com/Infi-null-0/Image_editor) - - A java project to batch convert images to grayscale and negatives❕
 -   🔗 [TIC TAC TOE](https://github.com/Infi-null-0/TIC_TAC_TOE) - A CLI tic tac toe ... (ASCII Art) 👾
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infi-null-0&theme=vue-dark&hide_border=true&layout=compact&border_radius=7" alt="Gradle-Icon" width="355"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infi-null-0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Gradle-Icon" width="300">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=infi-null-0&theme=github_dark_dimmed&hide_border=true&layout=compact&border_radius=7" alt="Gradle-Icon" width="355"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infi-null-0&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact" alt="Gradle-Icon" width="300">
 
 ## When I'm AFK 🕹️
 
 ![PC Gaming](https://img.shields.io/badge/Pc%20gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Crunchy Roll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) ![Youtube](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
-## Let's Connect 
+## Let's Connect
 
 [![Gmail Badge](https://img.shields.io/badge/-infinull0%40gmail.com-ffffff?logoColor=red&logo=Gmail&link=mailto:infinull0@gmail.com)](mailto:infinull0@gmail.com)
 
@@ -52,6 +52,6 @@ Welcome to my GitHub profile! I'm a passionate `software developer` currently pu
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don't%20worry%20about%20failures,%20you%20only%20have%20to%20get%20it%20right%20once.&author=Drew%20Houston%20(Dropbox%20CEO)">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Don't%20worry%20about%20failures,%20you%20only%20have%20to%20get%20it%20right%20once.&author=Drew%20Houston%20(Dropbox%20CEO)">
 
 </p>
