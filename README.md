@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate `software developer` currently pu
 -   🔗 [Image Converter](https://github.com/Infi-null-0/Image_editor) - - A java project to batch convert images to grayscale and negatives❕
 -   🔗 [TIC TAC TOE](https://github.com/Infi-null-0/TIC_TAC_TOE) - A CLI tic tac toe ... (ASCII Art) 👾
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infi-null-0&theme=github_dark_dimmed&hide_border=true&layout=compact&border_radius=7" alt="Gradle-Icon" width="355"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infi-null-0&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact" alt="Gradle-Icon" width="300">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=infi-null-0&theme=github_dark_dimmed&hide_border=true&layout=compact&border_radius=7" alt="Gradle-Icon" width="355"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infi-null-0&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact" alt="Gradle-Icon" width="300"> -->
 
 ## When I'm AFK 🕹️
 
