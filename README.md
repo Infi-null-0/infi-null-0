@@ -24,7 +24,9 @@ Welcome to my GitHub profile! I'm a passionate `software developer` currently pu
 
 `Java Eco-System :`
 
-<img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="Junit-Icon" height="50" width="50"> <img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat-Icon" height="50" width="50"> <img src="res/maven.png" alt="Maven-Icon" height="45" width="50"> <img src="res/gradle.png" alt="Gradle-Icon" height="50" width="50"> <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Gradle-Icon" height="50" width="50"> <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="C++-Icon" height="50" width="50">
+<img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="Junit-Icon" height="50" width="50"> <img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat-Icon" height="50" width="50"> <img src="res/maven.png" alt="Maven-Icon" height="45" width="50"> <img src="res/gradle.png" alt="Gradle-Icon" height="50" width="50">
+
+<!-- <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="SpringBoot-Icon" height="50" width="50"> <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring-Icon" height="50" width="50"> -->
 
 `Version Control :`
 
@@ -32,6 +34,7 @@ Welcome to my GitHub profile! I'm a passionate `software developer` currently pu
 
 ## Projects
 
+-   🔗 [Infy](https://github.com/Infi-null-0/infy-theme) - vscode theme pack extension ✨
 -   🔗 [Bank Management System](https://github.com/Infi-null-0/Bank-Management-System) - A replica of Banking System with `Mysql` db and `Javafx` frontend❗
 -   🔗 [Image Converter](https://github.com/Infi-null-0/Image_editor) - - A java project to batch convert images to grayscale and negatives❕
 -   🔗 [TIC TAC TOE](https://github.com/Infi-null-0/TIC_TAC_TOE) - A CLI tic tac toe ... (ASCII Art) 👾
@@ -49,9 +52,3 @@ Welcome to my GitHub profile! I'm a passionate `software developer` currently pu
 ## See ya 👋🏻
 
 -   Thanks for stopping by 😄! Feel free to explore my `projects` and `repositories`. If you have any questions or just want to say hi, don't hesitate to get in touch.
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Don't%20worry%20about%20failures,%20you%20only%20have%20to%20get%20it%20right%20once.&author=Drew%20Houston%20(Dropbox%20CEO)">
-
-</p>
